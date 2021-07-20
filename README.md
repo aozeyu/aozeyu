@@ -1,8 +1,6 @@
 ### Hi there my name is yaozeyu👋
 - 🌱 I’m currently learning JS Vue React...
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aozeyu)](https://github.com/aozeyu/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aozeyu&show_icons=true&theme=merko)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aozeyu&show_icons=true&theme=merko)](https://github.com/aozeyu/github-readme-stats)
 
 
 

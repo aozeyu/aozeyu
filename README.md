@@ -1,5 +1,5 @@
 ### Hi there my name is yaozeyu👋
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning JS Vue React...
 
 <!--
 **aozeyu/aozeyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

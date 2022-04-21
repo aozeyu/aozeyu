@@ -1,7 +1,7 @@
 ### Hi there my name is 姚泽宇👋
 #### 来自北华大学-网络工程系
 - 🌱 I’m currently learning JS Vue React Java Springboot mybatis
-- 🔭 I’m currently working on 宇信科技...
+- 🔭 I’m currently working on 宇信科技 and worked in 京东 in 2021 8月 的技术产品部
 - 💬 Ask me about ...
 - **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>

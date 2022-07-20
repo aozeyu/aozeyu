@@ -1,6 +1,6 @@
-### Hi there my name is 姚泽宇👋
+## Hi there my name is 姚泽宇👋
 #### 来自北华大学-网络工程系
-- 🌱 I’m currently learning JS Vue React Java Springboot mybatis
+- 🌱 I’m currently learning JS Vue Mysql Java Springboot mybatis
 - 🔭 I’m currently working on 宇信科技 and worked in 京东 in 2021 8月 的技术产品部的后端开发
 - 💬 Ask me about ...如果有好的后端工作需要人手的可以联系我🙏 邮箱地址3484766443@qq.com
 - **Languages and Tools:**  

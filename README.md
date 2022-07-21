@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning JS Vue Mysql Java Springboot mybatis
 - 🔭 I’m currently working on 宇信科技 and worked in 京东 in 2021 8月 的技术产品部的后端开发
 - 💬 Ask me about ...如果有好的后端工作需要人手的可以联系我🙏 邮箱地址3484766443@qq.com
+- 👏 follow me thanks
 - **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>

@@ -12,7 +12,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aozeyu&show_icons=true&theme=merko)](https://github.com/aozeyu/github-readme-stats)
 
 
-
+## snake for commit
+![snake gif](https://github.com/aozeyu/aozeyu/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 **aozeyu/aozeyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

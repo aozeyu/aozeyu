@@ -1,0 +1,24 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 * * * *"}]
+  workflow_dispatch:
+  push: {branches: ["main", "master"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Elb1to
+          template: classic
+          base: activity, community, repositories
+          config_padding: 0, 10%
+          config_timezone: America/Panama
+          plugin_lines: yes
+          plugin_wakatime: yes
+          plugin_wakatime_days: 30
+          plugin_wakatime_limit: 5
+          plugin_wakatime_sections: time, languages, editors
+          plugin_wakatime_url: https://wakatime.com/@79cbd4c4-eaa6-4188-a8bd-dbd4d32499a7
+          plugin_wakatime_user: current

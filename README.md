@@ -14,7 +14,8 @@
 
 ## snake for commit
 ![snake gif](https://github.com/aozeyu/aozeyu/blob/output/github-contribution-grid-snake.gif)
-
+## anthoter action
+![Metrics](/github-metrics.svg)
 <!--
 **aozeyu/aozeyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

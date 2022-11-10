@@ -1,5 +1,5 @@
 ## Hi there my name is yaozeyu👋 
-#### 来自北华大学-计算机系-网络工程专业
+#### FROM BeiHua-computer science-Network Engineering Major
 - 🌱 I’m currently learning JS Vue Mysql Java Springboot mybatis MQ SpringCloud
 - 🔭 I’m currently working on yusys and worked in JDH in 2021 8th 的 Technical Products Department backend developer
 - 💬 Ask me about ...working on yusys and email：3484766443@qq.com Motto: If you don't believe in yourself, no one can help you.
